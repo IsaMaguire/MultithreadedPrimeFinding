@@ -2,7 +2,7 @@ Assignment: Using multithreading techniques and the sieve of eratosthenes, write
 
 Files Given: final-primes (folder)
 
-Written Code: ParellelPrimes, PrimeChunkTask
+Written Code: ParellelPrimes, PrimeChunkTask (Improvements discussed in report)
 
 How to Test: Run PrimeTester. This outputs whether or not the program was successful. If yes, show the time it took to run. If not, show the first incorrect result.
 
